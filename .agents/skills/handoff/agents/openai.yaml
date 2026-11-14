@@ -1,0 +1,5 @@
+interface:
+  display_name: "Handoff"
+  short_description: "Save verified session context for another AI"
+policy:
+  allow_implicit_invocation: false

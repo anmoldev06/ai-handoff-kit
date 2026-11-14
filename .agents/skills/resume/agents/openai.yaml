@@ -1,0 +1,5 @@
+interface:
+  display_name: "Resume"
+  short_description: "Continue work from a project handoff"
+policy:
+  allow_implicit_invocation: false
